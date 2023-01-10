@@ -518,6 +518,16 @@
 	animation-direction: reverse
 }
 
+@keyframes styles_scroll__Yny6C {
+	0% {
+		transform: translateX(0)
+	}
+
+	to {
+		transform: translateX(calc(-100% - .1rem))
+	}
+} 
+
 .styles_video_thumbnail_container__xBHGN {
 	position: relative;
 	height: 450px;
